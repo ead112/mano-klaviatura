@@ -1,0 +1,6 @@
+if SHIELD_CUSTOM_BOARD
+
+config ZMK_KEYBOARD_NAME
+    default "ManoKlaviatura"
+
+endif
