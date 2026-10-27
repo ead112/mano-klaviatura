@@ -1,6 +1,6 @@
 if SHIELD_CUSTOM_BOARD
 
 config ZMK_KEYBOARD_NAME
-    default "ManoKlaviatura"
+    default "Pro Micro NRF52840"
 
 endif
